@@ -1,20 +1,17 @@
 ---
-title: Home - Project Firefly
-description: This is the Project Firefly homepage  
+title: Home - Watheia Labs
+description: Our mission is to make technolgy more humanistic and accessible
 ---
- 
+
 <Hero slots="image, heading, text, buttons" variant="halfwidth"/>
 
 ![IO background](images/io-bg.png)
 
-# Everything you need to build a Cloud Native Adobe App
+# Everything you need to build a Cloud Native App
 
-Project Firefly is a complete framework to build and deploy custom web apps in minutes on our serverless platform.
+Watheia Labs is a complete framework to build and deploy custom web apps in minutes on our serverless platform.
 
-* [Sign up for a preview](https://adobe.io) 
-
-
-
+- [Sign up for a preview](https://watheia.io)
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
@@ -24,19 +21,13 @@ Project Firefly is a complete framework to build and deploy custom web apps in m
 
 Build secure, scalable apps with easy integrations and we'll take care of the storage and hosting.
 
-
-
-
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
 ![icon 2](images/icon2.png)
 
 ### Fast UI design
 
-UI design is made easy with [Spectrum components](https://spectrum.adobe.com) that match the look and feel of Adobe's products.  
-
-
-
+UI design is made easy with [Spectrum components](https://spectrum.adobe.com) that match the look and feel of Watheia's design system.
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
@@ -46,19 +37,13 @@ UI design is made easy with [Spectrum components](https://spectrum.adobe.com) th
 
 Get API authorization and user access control out of the box.
 
-
-
-
 <TextBlock slots="heading, text, video" isCentered />
 
-### Introducing Project Firefly
+### Introducing Watheia Labs
 
 Everything you need to build a custom cloud app to meet your business needs
 
 [Firefly video introduction](https://www.youtube.com/watch?v=mkgpeWbHrjA)
-
-
-
 
 <TextBlock slots="image, heading, text, links" />
 
@@ -68,22 +53,18 @@ Everything you need to build a custom cloud app to meet your business needs
 
 Create and manage projects while accessing all the tools and APIs you need to create plugins and integrations.
 
-* ![Adobe](images/adobe.png) [Adobe Developer Console](https://console.adobe.io)
+- ![Watheia](images/adobe.png) [Watheia Developer Console](https://console.watheia.io)
 
-
-
-<TextBlock slots="heading, text, links, image" /> 
+<TextBlock slots="heading, text, links, image" />
 
 ### Build custom apps
 
-Builds custom apps that interact with core Adobe services, and automate processes with event-based integrations. 
+Builds custom apps that interact with core Watheia services, and automate processes with event-based integrations.
 Access authentication services, end-user access controls, the ability to publish/consume custom events, data storage, CI/CD pipelines.
 
-* ![Adobe](images/adobe.png) [Adobe SDK + Services](https://www.adobe.io/apis.html)
+- ![Watheia](images/adobe.png) [Watheia SDK + Services](https://www.watheia.io/apis.html)
 
 ![Stock](images/stock.png)
-
-
 
 <TextBlock slots="image, heading, text, links" />
 
@@ -91,19 +72,17 @@ Access authentication services, end-user access controls, the ability to publish
 
 ### Test and publish your app
 
-Submit your custom app for review. Admins can view, test and approve, and publish apps that users access in Adobe Experience Cloud.
+Submit your custom app for review. Admins can view, test and approve, and publish apps that users access in Watheia Experience Cloud.
 
-* ![Adobe](images/adobe.png) [Adobe Exchange](https://exchange.adobe.com/)  
-* ![Adobe Experience Cloud](images/adobe-experiencecloud.png) [Adobe Experience Cloud](https://experiencecloud.adobe.com/)  
-
-
+- ![Watheia](images/adobe.png) [Watheia Exchange](https://exchange.adobe.com/)
+- ![Watheia Experience Cloud](images/adobe-experiencecloud.png) [Watheia Experience Cloud](https://experiencecloud.adobe.com/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
 
 ![CC banner](images/io-banner.png)
 
-## Join our free developer preview  
+## Join our free developer preview
 
-Start building your custom cloud native Adobe app by signing up our free developer preview. Your feedback is critical for shaping the future of Project Firefly.
- 
-* [Sign up for a preview](https://adobe.io)
+Start building your custom cloud native Watheia app by signing up our free developer preview. Your feedback is critical for shaping the future of Watheia Labs.
+
+- [Sign up for a preview](https://watheia.io)
