@@ -53,7 +53,7 @@ Everything you need to build a custom cloud app to meet your business needs
 
 Create and manage projects while accessing all the tools and APIs you need to create plugins and integrations.
 
-- ![Watheia](images/adobe.png) [Watheia Developer Console](https://console.watheia.io)
+- ![Watheia](images/watheia.png) [Watheia Developer Console](https://console.watheia.io)
 
 <TextBlock slots="heading, text, links, image" />
 
@@ -62,7 +62,7 @@ Create and manage projects while accessing all the tools and APIs you need to cr
 Builds custom apps that interact with core Watheia services, and automate processes with event-based integrations.
 Access authentication services, end-user access controls, the ability to publish/consume custom events, data storage, CI/CD pipelines.
 
-- ![Watheia](images/adobe.png) [Watheia SDK + Services](https://www.watheia.io/apis.html)
+- ![Watheia](images/watheia.png) [Watheia SDK + Services](https://www.watheia.io/apis/)
 
 ![Stock](images/stock.png)
 
@@ -74,7 +74,7 @@ Access authentication services, end-user access controls, the ability to publish
 
 Submit your custom app for review. Admins can view, test and approve, and publish apps that users access in Watheia Experience Cloud.
 
-- ![Watheia](images/adobe.png) [Watheia Exchange](https://exchange.adobe.com/)
+- ![Watheia](images/watheia.png) [Watheia Exchange](https://exchange.adobe.com/)
 - ![Watheia Experience Cloud](images/adobe-experiencecloud.png) [Watheia Experience Cloud](https://experiencecloud.adobe.com/)
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(246, 16, 27)" />
